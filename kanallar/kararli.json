@@ -1,0 +1,38 @@
+{
+  "veri": {
+    "bicim": 1,
+    "urun": "konuk-defteri",
+    "kanal": "kararli",
+    "surum": "1.1.0",
+    "sema": "c3e8b51f2a90",
+    "yayin_tarihi": "2026-09-15",
+    "kurulum": {
+      "ad": "KonukDefteri_Kurulum_1.1.0.exe",
+      "url": "https://github.com/coraspirin/KonukDefteri-Surumler/releases/download/v1.1.0/KonukDefteri_Kurulum_1.1.0.exe",
+      "boyut": 34135568,
+      "sha256": "310dfd08618cc93c48c7c9c64d8d84f754d7fafc93d032b65823858863e5de4d"
+    },
+    "notlar": [
+      {
+        "surum": "1.1.0",
+        "tarih": "2026-09-15",
+        "maddeler": [
+          "Uygulama içinden güncelleme: yeni sürüm çıkınca Ayarlar → Güncelleme'den kurulur; güncellemeden önce otomatik yedek alınır.",
+          "Beta kanalı: “Beta güncellemelerini al” işaretliyse yeni sürümler herkesten önce gelir.",
+          "Ayarlar → Yedekleme'den geri yükleme: listedeki bir yedeğe ya da USB bellekteki bir yedek dosyasına dönülebilir; şimdiki veriler önce ayrıca saklanır.",
+          "Güvenli sürüm geçişi: veritabanı yeni sürüme yükseltilmeden önce yedeklenir; sorun olursa eski haline döner.",
+          "Kaldırırken kayıtların ve yedeklerin de silinip silinmeyeceği sorulur.",
+          "Bazı işlemcilerde uygulamanın açılmaması sorunu giderildi."
+        ]
+      },
+      {
+        "surum": "1.0.0",
+        "tarih": "2026-09-12",
+        "maddeler": [
+          "İlk sürüm."
+        ]
+      }
+    ]
+  },
+  "imza": "684500a045127d44546361e12270801bac0b98e0dac7c6dd407fdb18c5344f47291f098069c5cb457965c8968fd6d75d31261752fd0ad99f5a720d1fcdc63f01"
+}
