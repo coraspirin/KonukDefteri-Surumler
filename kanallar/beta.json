@@ -3,21 +3,28 @@
     "bicim": 1,
     "urun": "konuk-defteri",
     "kanal": "beta",
-    "surum": "1.1.1-beta.1",
+    "surum": "1.1.5-beta.1",
     "sema": "c3e8b51f2a90",
     "yayin_tarihi": "2026-09-15",
     "kurulum": {
-      "ad": "KonukDefteri_Kurulum_1.1.1-beta.1.exe",
-      "url": "https://github.com/coraspirin/KonukDefteri-Surumler/releases/download/v1.1.1-beta.1/KonukDefteri_Kurulum_1.1.1-beta.1.exe",
-      "boyut": 34143534,
-      "sha256": "6d1f922eb5f440abc20fd3f211143f24fcf7de57cfdeeb2f95cde2dee03e5b26"
+      "ad": "KonukDefteri_Kurulum_1.1.5-beta.1.exe",
+      "url": "https://github.com/coraspirin/KonukDefteri-Surumler/releases/download/v1.1.5-beta.1/KonukDefteri_Kurulum_1.1.5-beta.1.exe",
+      "boyut": 34139020,
+      "sha256": "c8143ddc51e6c6ed3e2912e8a866d18ce7979acf1aa67a184e72d6b1f3a602bf"
     },
     "notlar": [
       {
-        "surum": "1.1.1-beta.1",
+        "surum": "1.1.5-beta.1",
         "tarih": "2026-09-15",
         "maddeler": [
-          "Güncelleme sistemi denemesi (beta): uygulama içi güncellemenin beta kanalında sınanması için yayınlandı; işlevsel değişiklik yok."
+          "Güncelleme sistemi denemesi (beta): yalnızca beta kanalında yayınlandı; işlevsel değişiklik yok."
+        ]
+      },
+      {
+        "surum": "1.1.1",
+        "tarih": "2026-09-15",
+        "maddeler": [
+          "Güncelleme sistemi denemesi: uygulama içi güncellemenin sınanması için yayınlandı; işlevsel değişiklik yok."
         ]
       },
       {
@@ -41,5 +48,5 @@
       }
     ]
   },
-  "imza": "ff55c9661fcb35cf70a7d5abceb6cc6f1d0580e4b355187c00676b23689956dc0c39c596d0b023acda90d115af74ef771b785023df1815c04e50aa8172752e0f"
+  "imza": "2768345ee52102c8b44fe9d7910a7fa07a1322bf82229c847ee69bf97de8f12ffe1088a4a4e9012329b7a4f1113e5c48a05927eafc8d3c00885e701fec2fa10b"
 }
